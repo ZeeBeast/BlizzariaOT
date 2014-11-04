@@ -1,0 +1,4 @@
+BlizzariaOT
+===========
+
+Blizzaria OT server
